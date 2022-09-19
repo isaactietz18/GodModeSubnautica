@@ -39,7 +39,6 @@ namespace ConfigurableGodMode
 
         private void playerCheckboxToggleEvent(ToggleChangedEventArgs e)
         {
-            Logger.Log(Logger.Level.Info, $"If you made this change NOT at the main menu, please restart your game for the change to take place.", null, true);
             Logger.Log(Logger.Level.Info, "Checkbox value was changed!");
             Logger.Log(Logger.Level.Info, $"{e.Value}");
         }
