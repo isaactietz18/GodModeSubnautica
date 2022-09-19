@@ -1,0 +1,12 @@
+{
+  "Id": "ConfigurableGodModeSN",
+  "DisplayName": "Configurable God Mode",
+  "Author": "Isaac Tietz",
+  "Version": "1.0.0",
+  "Enable": true,
+  "AssemblyName": "ConfigurableGodMode.dll",
+  "VersionDependencies": {
+    "SMLHelper": "2.12.1"
+  },
+  "Game": "Subnautica"
+}
